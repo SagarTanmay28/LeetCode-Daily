@@ -15,6 +15,6 @@ public:
            result = (result * i) % MOD;
         }
 
-        return result;
+        return result; 
     }
 };
